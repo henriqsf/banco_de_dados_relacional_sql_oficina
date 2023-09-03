@@ -1,5 +1,5 @@
 
-# Banco de Relacional de uma Oficina
+# Banco de Dados Relacional de uma Oficina
 
 
 O projeto teve o objetivo de resolver um desafio que consistia em criar um banco de dados relacional de uma oficina. Foi desenvolvido o esquema lógico, scrip SQL para criação do banco de dados, scrip para iserção de dados e elaboração de queries que possam responder perguntas de negócios.
